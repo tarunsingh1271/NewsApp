@@ -1,0 +1,256 @@
+{
+    "status": "ok",
+    "totalResults": 8858,
+    "articles": 
+    [
+    
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Paulina Likos",
+    "title": "Jim Cramer worries about a UAW strike at Ford. But it's not all doom and gloom at the automaker",
+    "description": "Due to growing concerns about a potential strike, Jim Cramer said he is \"not in a hurry to buy\" more Ford.",
+    "url": "https://www.cnbc.com/2023/08/15/cramer-worries-about-a-uaw-strike-but-its-not-all-doom-and-gloom-at-ford.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107252078-1686077384691-gettyimages-1240263023-DET054.jpeg?v=1692118962&w=1920&h=1080",
+    "publishedAt": "2023-08-15T17:02:42Z",
+    "content": "Jim Cramer is cautious about Ford (F) due to the heightened risk of a United Auto Workers strike, which has been a recent overhang on the Club stock. But, Jim is encouraged by the automaker's electri… [+5841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "reuters.com",
+    "title": "Fisker to add Tesla's EV charging connector by 2025",
+    "description": "The logo of Fisker Automotive is pictured on a car at the 2022 Paris Auto Show in Paris, France, October 18, 2022. REUTERS/Stephane Mahe Aug 15 (Reuters) - Electric vehicle startup Fisker (FSR.N) said on Tuesday it signed a deal with Tesla (TSLA.O) to adopt i…",
+    "url": "https://biztoc.com/x/1acc6c4aaa15da11",
+    "urlToImage": "https://c.biztoc.com/p/1acc6c4aaa15da11/og.webp",
+    "publishedAt": "2023-08-15T16:58:07Z",
+    "content": "The logo of Fisker Automotive is pictured on a car at the 2022 Paris Auto Show in Paris, France, October 18, 2022. REUTERS/Stephane MaheAug 15 (Reuters) - Electric vehicle startup Fisker (FSR.N) said… [+304 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yiannis Zourmpanos",
+    "title": "Tesla: Triumphs and Challenges",
+    "description": "Record deliveries, pricing woes and promising trajectory",
+    "url": "https://finance.yahoo.com/news/tesla-triumphs-challenges-164807831.html",
+    "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/8ba82588d577ce93efedc1c28e0acbe7",
+    "publishedAt": "2023-08-15T16:48:07Z",
+    "content": "In the dynamic landscape of electric vehicle manufacturing, Tesla Inc.'s (NASDAQ:TSLA) second-quarter performance is a testament to its triumphs and hurdles. The period witnessed an impressive surge … [+6252 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yiannis Zourmpanos",
+    "title": "Tesla: Triumphs & Challenges",
+    "description": "Record Deliveries, Pricing Woes, and Promising Trajectory",
+    "url": "https://finance.yahoo.com/news/tesla-triumphs-challenges-164807437.html",
+    "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/8ba82588d577ce93efedc1c28e0acbe7",
+    "publishedAt": "2023-08-15T16:48:07Z",
+    "content": "In the dynamic landscape of electric vehicle (EV) manufacturing, Tesla Inc (NASDAQ:TSLA)'s Q2 2023 performance is a testament to its triumphs and hurdles. The period witnessed an impressive surge in … [+6848 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Reuters",
+    "title": "Tesla launches cheaper Model S, X versions with shorter driving ranges",
+    "description": "The new S and X \"standard range\" models are priced at $78,490 and $88,490, respectively.",
+    "url": "https://nypost.com/2023/08/15/tesla-launches-cheaper-model-s-x-versions-with-shorter-driving-ranges/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/tesla-elon-musk-new-models.jpg?quality=75&strip=all&1692102081&w=1024",
+    "publishedAt": "2023-08-15T16:39:04Z",
+    "content": "Tesla  launched cheaper variants of its Model S sedan and Model X SUV with shorter driving ranges in the US, looking to increase sales as high borrowing costs hamper demand for expensive electric veh… [+1986 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fark.com"
+    },
+    "author": null,
+    "title": "\"Many of us went into this evaluation wary of the cultlike vibes from the Teslarati,...But our job is to evaluate cars, not the people who make, own, or love them, and there is no denying the Tesla Model Y is very, very good\" [Interesting]",
+    "description": "\"Many of us went into this evaluation wary of the cultlike vibes from the Teslarati,...But our job is to evaluate cars, not the people who make, own, or love them, and there is no denying the Tesla Model Y is very, very good\"",
+    "url": "https://www.fark.com/comments/12958926/Many-of-us-went-into-this-evaluation-wary-of-cultlike-vibes-from-TeslaratiBut-our-job-is-to-evaluate-cars-not-people-who-make-own-love-them-there-is-no-denying-Tesla-Model-Y-is-very-very-good",
+    "urlToImage": "https://usrimg-full.fark.net/0/0Y/fark_0YTe1ofAonSGgG9luAQbkW5ppVo.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1692590400&Signature=2JUV2k1LMnMqZQnzRUDXTOzBptk%3D",
+    "publishedAt": "2023-08-15T16:35:08Z",
+    "content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CleanTechnica"
+    },
+    "author": "Guest Contributor",
+    "title": "How Much Does It Cost To Have A Tesla Powerwall Installed?",
+    "description": "The Tesla Powerwall is an energy storage system that pairs with solar panels to offer backup power storage to your home. In addition to reducing a homeowner’s reliance on the electrical grid, the Powerwall lets users monitor and manage their backup power, eve…",
+    "url": "https://cleantechnica.com/2023/08/15/how-much-does-it-cost-to-have-a-tesla-powerwall-installed/",
+    "urlToImage": "http://cleantechnica.com/files/2023/09/2023.08-Tesla-Takeover-2023-California-04-tesla-energy-solar-roof-powerwall-scaled.jpg",
+    "publishedAt": "2023-08-15T16:32:25Z",
+    "content": "The Tesla Powerwall is an energy storage system that pairs with solar panels to offer backup power storage to your home. In addition to reducing a homeowners reliance on the electrical grid, the Powe… [+3326 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "finance.yahoo.com",
+    "title": "Vietnamese EV maker VinFast's shares surge in Nasdaq debut",
+    "description": "Shares in Vietnamese electric vehicle maker VinFast surged on their Nasdaq debut on Tuesday after the company closed its merger with a special purpose acquisition company (SPAC) and signalled it was open to raising additional capital. The stock opened at $22,…",
+    "url": "https://biztoc.com/x/932a4f1b5b801194",
+    "urlToImage": "https://c.biztoc.com/p/932a4f1b5b801194/og.webp",
+    "publishedAt": "2023-08-15T16:30:12Z",
+    "content": "Shares in Vietnamese electric vehicle maker VinFast surged on their Nasdaq debut on Tuesday after the company closed its merger with a special purpose acquisition company (SPAC) and signalled it was … [+298 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Casey Newton",
+    "title": "Elon Musk keeps getting creepier",
+    "description": "Elon Musk this week threatened to show up at Mark Zuckerberg’s house and challenge him to a fight, live streaming all the way. It’s the latest concerning behavior from the man above SpaceX, Tesla, and more.",
+    "url": "https://www.theverge.com/2023/8/15/23832701/elon-musk-lies-mark-zuckerberg-fight-creepy",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/E4RqlzEcHjLqakAu7mpdG_GgSYE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24085014/STK171_L_Allen_Musk_03.jpg",
+    "publishedAt": "2023-08-15T16:30:00Z",
+    "content": "Elon Musk keeps getting creepier\r\nElon Musk keeps getting creepier\r\n / Caught in a series of lies about his willingness to fight Mark Zuckerberg, the billionaires disturbing spiral accelerates.\r\nByCa… [+7256 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Keith Griffith, Reuters",
+    "title": "'Big Short' investor Michael Burry appears to bet on US market crash with $1.6 billion position against the S&P 500 and the Nasdaq",
+    "description": "Burry held bearish positions against the S&P 500 and Nasdaq 100 Index worth a combined $1.6 billion at the end of the second quarter, according to securities fillings released Monday.",
+    "url": "https://www.dailymail.co.uk/news/article-12409437/Big-Short-Michael-Burry-options-Nasdaq.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/08/15/17/74342393-0-image-m-25_1692116212239.jpg",
+    "publishedAt": "2023-08-15T16:19:39Z",
+    "content": "Michael Burry, the money manager made famous in the book and film 'The Big Short,' appears to be betting on a major downturn in the US stock market.\r\nBurry held bearish positions against the S&amp;P … [+3674 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Fred Lambert",
+    "title": "Tesla is taking steps to launch FSD Beta in China",
+    "description": "Tesla is starting to take steps to launch Full Self-Driving Beta in China, but there are likely some hurdles ahead.\n more…\nThe post Tesla is taking steps to launch FSD Beta in China appeared first on Electrek.",
+    "url": "https://electrek.co/2023/08/15/tesla-is-taking-steps-to-launch-fsd-beta-in-china/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-08-15T16:19:31Z",
+    "content": "Tesla is starting to take steps to launch Full Self-Driving Beta in China, but there are likely some hurdles ahead.\r\nFor how much we are complaining about Teslas Full Self-Driving package and FSD Bet… [+2003 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thefly.com"
+    },
+    "author": null,
+    "title": "Tesla rolls out 'Standard Range' versions of Model S, Model X, Electrek says",
+    "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+    "url": "https://thefly.com/permalinks/entry.php/id3766216/TSLA-Tesla-rolls-out-Standard-Range-versions-of-Model-S-Model-X-Electrek-says",
+    "urlToImage": "https://thefly.com/images/meta/periodicals.jpg",
+    "publishedAt": "2023-08-15T16:16:39Z",
+    "content": "Earnings calls, analyst events, roadshows and more"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "theverge.com",
+    "title": "Fisker’s going for the Tesla connector as well",
+    "description": "Fisker is the latest automaker to adopt Tesla’s charging connector for its future vehicles. Following the marching band of major automakers, Fisker is going to add a Tesla North American Charging Standard (NACS) port to its first vehicles in 2025, the company…",
+    "url": "https://biztoc.com/x/729ba6448d4901b0",
+    "urlToImage": "https://c.biztoc.com/p/729ba6448d4901b0/og.webp",
+    "publishedAt": "2023-08-15T16:16:07Z",
+    "content": "Fisker is the latest automaker to adopt Teslas charging connector for its future vehicles. Following the marching band of major automakers, Fisker is going to add a Tesla North American Charging Stan… [+274 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "UPI.com"
+    },
+    "author": "Daniel J. Graeber",
+    "title": "California EV company Fisker will adopt Tesla’s charging network by 2025",
+    "description": "California-based electric vehicle manufacturer Fisker said Tuesday it added its name to the growing list of companies adopting Tesla's charging network.",
+    "url": "https://www.upi.com/Top_News/US/2023/08/15/fisker-tesla-nacs-charging-network-elon/1741692114181/",
+    "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/839385b5e05c06f00a3e737ef52bcf1a",
+    "publishedAt": "2023-08-15T16:15:04Z",
+    "content": "Aug. 15 (UPI) -- California-based electric vehicle manufacturer Fisker said Tuesday it added its name to the growing list of companies adopting Tesla's charging network.\r\nStarting in 2025, the emergi… [+1980 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wccftech"
+    },
+    "author": "Rohail Saleem",
+    "title": "Here Is Why Tesla Does Not Seem To Have a Demand Problem in China",
+    "description": "Tesla has a long track record of proving its detractors wrong, having demonstrated ad-nauseum its now-established credentials of a widow-maker stock for short-sellers. In light of the latest sales data […]\nWritten by Rohail Saleem",
+    "url": "https://wccftech.com/here-is-why-tesla-does-not-seem-to-have-a-demand-problem-in-china/",
+    "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/08/107248808-1685557819242-gettyimages-1494888442-dsc_6172_fsveuknt.jpeg",
+    "publishedAt": "2023-08-15T16:11:56Z",
+    "content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\r\nTesla has a long track record of proving its detractors wro… [+2773 chars]"
+    },
+    {
+    "source": {
+    "id": "next-big-future",
+    "name": "Next Big Future"
+    },
+    "author": "Brian Wang",
+    "title": "The Scary GM Cruise Robotaxi Business Model to Lose Many Billions Until 2030",
+    "description": "GM’s Cruise robotaxi service has expanded from 70 to 300 robotaxis operating in San Francisco and will soon expand to Phoenix, Los Angeles, Austin and Dubai. GM Cruise had increasing losses of $561 million in the first quarter of 2023. This will be over $2 bi…",
+    "url": "https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html",
+    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-15-at-9.05.06-AM.jpg",
+    "publishedAt": "2023-08-15T16:06:30Z",
+    "content": "GM’s Cruise robotaxi service has expanded from 70 to 300 robotaxis operating in San Francisco and will soon expand to Phoenix, Los Angeles, Austin and Dubai. GM Cruise had increasing losses of $561 m… [+10688 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wsj.com",
+    "title": "Tesla Launches Cheaper, Lower-Range Model S and Model X",
+    "description": "Tesla released cheaper versions of its most expensive U.S. vehicles, the Model S and Model X, that cost $10,000 less and drive fewer miles per charge, according to the company’s website.#tesla #modelx",
+    "url": "https://biztoc.com/x/efb2735a55e003db",
+    "urlToImage": "https://c.biztoc.com/p/efb2735a55e003db/s.webp",
+    "publishedAt": "2023-08-15T16:06:07Z",
+    "content": "Tesla released cheaper versions of its most expensive U.S. vehicles, the Model S and Model X, that cost $10,000 less and drive fewer miles per charge, according to the companys website.\r\n#tesla#model… [+35 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "barrons.com",
+    "title": "U.S. Steel, the First $1 Billion Company, Is Nearing an End. It’s a Lesson for Tesla and Apple",
+    "description": "One of the most storied legacies in American stock trading history might be coming to an end. United States Steel ‘s days as an independent publicly traded company could be numbered. Its story holds some fascinating history as well as some important lessons f…",
+    "url": "https://biztoc.com/x/712c09a74f7fcf15",
+    "urlToImage": "https://c.biztoc.com/p/712c09a74f7fcf15/s.webp",
+    "publishedAt": "2023-08-15T16:06:04Z",
+    "content": "One of the most storied legacies in American stock trading history might be coming to an end. United States Steel s days as an independent publicly traded company could be numbered. Its story holds s… [+131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Platformer.news"
+    },
+    "author": "www.platformer.news",
+    "title": "Musk creep show: Billionaire's disturbing spiral accelerates...THE CAGE FIGHT THAT WASN'T...",
+    "description": "Caught in a series of lies about his willingness to fight Mark Zuckerberg, the billionaire's disturbing spiral accelerates",
+    "url": "https://www.platformer.news/p/elon-musks-creep-show",
+    "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a70eff3-9a54-4204-8f8c-af3d640dbc4b_1024x613.jpeg",
+    "publishedAt": "2023-08-15T16:00:04Z",
+    "content": "Elon Musk's creep show\r\nMusk attends the Viva Technology conference in Paris in June. (Chesnot / Getty Images)\r\nI.Today let’s talk — for the last time, I hope — about the derailed martial arts bout b… [+13077 chars]"
+    }
+    ]
+}
+    
