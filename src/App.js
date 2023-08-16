@@ -3,7 +3,7 @@ import News from './components/News';
 import Navbar from './components/Navbar';
 
 import React, { Component } from 'react'
-import AboutUs from './components/AboutUs';
+
 
 export class App extends Component {
   render() {
