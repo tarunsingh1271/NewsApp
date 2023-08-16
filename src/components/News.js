@@ -116,18 +116,19 @@ export class News extends Component {
             articles: this.articles
         }
     }
+
+
     
     render() {
         return (
             <>
             <div className="conatiner">
-                <h2>Today's Top Headlines </h2><h6>Your daily dose of news!!</h6>
-                
+                <h2>Today's Top Headlines </h2><h6>Your daily dose of news!!</h6>                
                 
                 <div className="row">
-                {this.state.articles.map((element)=>{
-            return  <div className="col-md-4" key={element.url} >
-                    <NewsItem title={element.title.slice(0, 20)} description={element.title.slice(0, 60)} urlToImage= {element.urlToImage} newsUrl= {element.url} />
+                {this.state.articles.map((data)=>{
+            return  <div className="col-md-4" key={data.url} >
+                    <NewsItem title={data.title.slice(0, 30)} description={data.title.slice(0, 80)} urlToImage= {data.urlToImage} newsUrl= {data.url} />
                     </div>
                 })}
                     

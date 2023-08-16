@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import logo from './images/newspaper-icon.png'
-
 export class Navbar extends Component {
     render() {
         return (
@@ -21,12 +20,17 @@ export class Navbar extends Component {
                                     <a className="nav-link active" aria-current="page" href="/">Home</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="/">Link</a>
+                                    <a className="nav-link" href="/">Subscribe</a>
+                                </li>
+                                <li className="nav-item">
+                                    <a className="nav-link" href="/">About Us</a>
                                 </li>
                             
                             </ul>
                             <form className="d-flex" role="search">
-                                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                            
+
+                                <input className="form-control border border-success me-2" type="search" placeholder="Search" aria-label="Search" />
                                 <button className="btn btn-success" type="submit">Search</button>
                             </form>
                         </div>

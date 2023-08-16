@@ -3,20 +3,20 @@ import News from './components/News';
 import Navbar from './components/Navbar';
 
 import React, { Component } from 'react'
-//import NewsItem from './components/NewsItem';
+import AboutUs from './components/AboutUs';
 
 export class App extends Component {
   render() {
     return (
       
          <>
-    <Navbar />
+        <Navbar />
 
-      <div className="container">
-        
-        <News /> 
-              
-      </div>
+          <div className="container">
+            
+            <News /> 
+                  
+          </div>
 
     </>
     )
